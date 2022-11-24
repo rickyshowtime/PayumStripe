@@ -1,6 +1,6 @@
 {
     "name": "flux-se/payum-stripe",
-    "description": "Payum Stripe gateways",
+    "description": "Payum Stripe gateways - RickyShowtime hotfix",
     "type": "library",
     "keywords": [
         "stripe",
