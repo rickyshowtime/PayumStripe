@@ -21,7 +21,7 @@
         "ext-json": "*"
     },
     "replace": {
-        "flux-se/payum-stripe-bundle":"2.0.1"
+        "flux-se/payum-stripe-bundle":"v2.0.1"
     },
     "autoload": {
         "psr-4": { "FluxSE\\PayumStripe\\": "src/" }
