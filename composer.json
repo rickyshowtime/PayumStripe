@@ -22,7 +22,7 @@
     },
     "replace": {
         "flux-se/payum-stripe-bundle":"2.0.1"
-    }
+    },
     "autoload": {
         "psr-4": { "FluxSE\\PayumStripe\\": "src/" }
     },
